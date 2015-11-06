@@ -1,0 +1,11 @@
+{
+  "name": "ChatServer",
+  "version": "0.0.0",
+  "description": "ChatServer",
+  "main": "app.js",
+  "author": {
+    "name": "boroo",
+    "email": ""
+  },
+  "dependencies": {}
+}
